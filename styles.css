@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+    background-color: rgb(167, 40, 40);
+}
+
+header {
+    height: 100px;
+}
+
+h1 {
+    font-family: 'Star Jedi_Cyrillic';
+    color: #e4aa0a;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-family: 'Star Jedi_Cyrillic';
+    padding-top: 10px;
+    color: #e4aa0a;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-family: 'Star Jedi_Cyrillic';
+    color: #e4aa0a;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.loading {
+    font-family: 'Star Jedi_Cyrillic';
+    padding-top: 60px;
+    color: #e4aa0a;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.error {
+    font-family: 'Star Jedi_Cyrillic';
+    padding-top: 60px;
+    color: #e4aa0a;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    height: 100px;
+}
